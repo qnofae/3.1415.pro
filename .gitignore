@@ -13,3 +13,12 @@ user_guide_src/cilexer/build/*
 user_guide_src/cilexer/dist/*
 user_guide_src/cilexer/pycilexer.egg-info/*
 /vendor/
+
+#add by Never
+/tmp
+/cache
+/uploads
+/system/config.inc.php
+/system/config/database.php
+/system/config/install.lock.php
+
